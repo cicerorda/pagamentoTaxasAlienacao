@@ -1,6 +1,5 @@
 {
   "name": "PagamentoTaxasAlienacao",
-  "projectId": "a684a053-fb81-4cf0-a7d4-1a491690053a",
   "description": "Blank Process",
   "main": "Main(Autosaved).xaml",
   "dependencies": {
@@ -14,7 +13,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "23.6.1.0",
-  "projectVersion": "1.0.0",
+  "projectVersion": "1.0.1",
   "runtimeOptions": {
     "autoDispose": false,
     "netFrameworkLazyLoading": false,
@@ -22,7 +21,6 @@
     "isAttended": false,
     "requiresUserInteraction": true,
     "supportsPersistence": false,
-    "workflowSerialization": "DataContract",
     "excludedLoggedData": [
       "Private:*",
       "*password*"
