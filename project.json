@@ -3,6 +3,8 @@
   "description": "Blank Process",
   "main": "Main(Autosaved).xaml",
   "dependencies": {
+    "runtime.any.System.Globalization": "[4.3.0]",
+    "System.Globalization": "[4.3.0]",
     "UiPath.Excel.Activities": "[2.21.0-preview]",
     "UiPath.Mail.Activities": "[1.20.2]",
     "UiPath.System.Activities": "[23.6.0-preview]",
